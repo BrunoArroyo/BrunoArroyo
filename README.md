@@ -1,16 +1,27 @@
-### Hi there 👋
+<h2 align=center>Hello, I'm Bruno!</h2>
 
-<!--
-**BrunoArroyo/BrunoArroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center>I'm a 20 years old Brazilian programmer
+<hr>
+<br>
 
-Here are some ideas to get you started:
+<div align=center>
+<img align=center src="https://github-readme-stats.vercel.app/api?username=BrunoArroyo&show_icons=true&theme=dark" />
+<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoArroyo&layout=donut-vertical&theme=dark" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr>
+<div align=center>
+<img align="center" src="https://profile-counter.glitch.me/%7BBrunoArroyo%7D/count.svg" />
+</div>
+
+<br>
+
+!Ashutosh's github activity graph
+
+<hr>
+
+<div align=center>
+
+
+</div>
