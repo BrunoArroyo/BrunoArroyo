@@ -1,6 +1,6 @@
 <h2 align=center>Hello, I'm Bruno!</h2>
 
-<p align=center>I'm a 20 years old Brazilian programmer
+<p align=center>I'm a 21 years old Brazilian programmer
 <hr>
 <br>
 
